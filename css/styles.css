@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f1f1;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 5%;
+
+}
+
+h1 {
+    color: #aee1e1;
+}
+
+h3 {
+    color: #d3e0dc;
+}
